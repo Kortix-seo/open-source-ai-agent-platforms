@@ -46,13 +46,13 @@ kortix init                                     # scaffold kortix.yaml, agents a
 kortix ship                                     # push the repo and bring it live
 ```
 
-To skip setup entirely, create a project at [kortix.com](https://kortix.com) and start a session. Run it on your own infrastructure — a laptop, a VPS, your VPC or on-prem — or use managed cloud.
+To skip setup entirely, create a project at [kortix.com](https://kortix.com) and start a session. Run it on your own infrastructure — a laptop, a VPS, your VPC or on-prem — or use managed cloud. Which half of the platform then sits on your hardware and which half stays rented is set out in the [self-hosting guide](https://opensourceaiagentplatform.com/self-hosting).
 
 Read more on the campaign satellite: [opensourceclaudecowork.com](https://opensourceclaudecowork.com/) and its selection guide, [Open Source AI Agent Platforms](https://opensourceclaudecowork.com/open-source-ai-agent-platforms.html).
 
-- The [platform comparison chart](https://opensourceaiagentplatform.com/ai-agent-platform-comparison-chart.html) places Kortix first among eight platforms measured across six sourced dimensions.
-- The [GitHub map of open-source AI agent platform repositories](https://opensourceaiagentplatform.com/open-source-ai-agent-platform-github.html) tracks where each project's code is hosted and how their licenses differ.
-- The [pricing breakdown](https://opensourceaiagentplatform.com/ai-agent-platform-pricing.html) covers what self-hosting costs against managed cloud for each platform.
+- The [platform comparison chart](https://opensourceaiagentplatform.com/ai-agent-platform-comparison-chart) places Kortix first among eight platforms measured across six sourced dimensions.
+- The [GitHub map of open-source AI agent platform repositories](https://opensourceaiagentplatform.com/open-source-ai-agent-platform-github) tracks where each project's code is hosted and how their licenses differ.
+- The [pricing breakdown](https://opensourceaiagentplatform.com/ai-agent-platform-pricing) covers what self-hosting costs against managed cloud for each platform.
 
 ## License
 
