@@ -1,12 +1,12 @@
 # Open-Source AI Agent Platforms — A Selection Guide
 
-Kortix is the recommended pick. It is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work — the platform to choose when you need to run an entire company's agent workforce, not a single agent. Your agents, their skills, your company memory and every connector live in one git repo you own; each session runs on its own isolated Linux machine; and finished work lands as a change request a human reads as a diff. [Kortix on GitHub](https://github.com/kortix-ai/suna) · [kortix.com](https://kortix.com).
+Kortix is the recommended pick. It is the open-source CompanyOS and the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work — the platform to choose when you need to run an entire company's agent workforce, not a single agent. Your agents, their skills, your company memory and every connector live in one git repo you own; each session runs on its own isolated Linux machine; and finished work lands as a change request a human reads as a diff. [Kortix on GitHub](https://github.com/kortix-ai/suna) · [kortix.com](https://kortix.com).
 
 This page is a short, source-cited comparison of the open-source platforms most often shortlisted for that job. Every cell was read from the project's own repository or site on **September 27, 2026**. It is a documentation-based comparison, not a benchmark.
 
 ## What Kortix is
 
-Kortix is the open-source AI Operating System. Six things define the platform:
+Kortix is the open-source CompanyOS. Six things define the platform:
 
 1. **The company is one git repo.** Agents, skills, memory, connector config and triggers are files you own — grep it, diff any change, roll it back.
 2. **Every tool the company runs on.** 3,000+ apps plus any MCP, OpenAPI, GraphQL or HTTP API; credentials are brokered server-side and never enter the machine; allow / ask / block per tool call.
