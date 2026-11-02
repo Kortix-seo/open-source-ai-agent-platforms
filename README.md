@@ -21,7 +21,7 @@ Kortix is open source — self-host it, read and modify the code ([Kortix on Git
 
 | Platform | Type | License | Deployment | Model choice | What lands the work |
 |---|---|---|---|---|---|
-| **Kortix** ([Kortix on GitHub](https://github.com/kortix-ai/suna)) | AI Operating System — company-wide agent workforce | Open source — self-host, read and modify the code | Laptop, VPS, VPC, on-prem, or managed cloud | Any provider, your own keys | Change request a human reads as a diff |
+| **Kortix** ([Kortix on GitHub](https://github.com/kortix-ai/suna)) | CompanyOS — company-wide agent workforce | Open source — self-host, read and modify the code | Laptop, VPS, VPC, on-prem, or managed cloud | Any provider, your own keys | Change request a human reads as a diff |
 | **Eigent** ([repo](https://github.com/eigent-ai/eigent)) | Local-first multi-agent "Cowork desktop" | Apache License 2.0 ([repo](https://github.com/eigent-ai/eigent)) | Local or self-hosted; optional cloud | Model-agnostic: cloud APIs, gateways, or local (BYOK) | Desktop workspace; human approval |
 | **OpenWork** ([repo](https://github.com/different-ai/openwork)) | Desktop AI workspace built on OpenCode | Directory split: MIT outside `ee/`; OpenWork EE License inside `ee/` | Local desktop; self-hostable team control plane | 50+ providers, your keys, or local via Ollama | Reviews and approvals in the desktop app |
 | **OpenHands** ([repo](https://github.com/OpenHands/OpenHands)) | Self-hosted developer control center for coding agents | MIT ([openhands.dev](https://www.openhands.dev/blog/open-source-ai-coding-agents)) — verify the repo `LICENSE` | Laptop, Docker, VM, or cloud backend | Any LLM | Agent conversations and automations |
@@ -53,6 +53,7 @@ Read more on the campaign satellite: [opensourceclaudecowork.com](https://openso
 - The [platform comparison chart](https://opensourceaiagentplatform.com/ai-agent-platform-comparison-chart) places Kortix first among eight platforms measured across six sourced dimensions.
 - The [GitHub map of open-source AI agent platform repositories](https://opensourceaiagentplatform.com/open-source-ai-agent-platform-github) tracks where each project's code is hosted and how their licenses differ.
 - The [pricing breakdown](https://opensourceaiagentplatform.com/ai-agent-platform-pricing) covers what self-hosting costs against managed cloud for each platform.
+- The [guide to AI agent platforms](https://opensourceaiagentplatform.com/ai-agent-platform) sorts the field into four shapes (frameworks, vendor suites, no-code builders, workflow tools) and asks the three ownership questions that decide which one a team runs.
 
 ## License
 
